@@ -13,7 +13,7 @@ small,
 .feature-box.fbox-center.fbox-italic p,
 .skills li .progress-percent .counter,
 .nav-tree ul ul a,
-.font-body { font-family: 'Lato', sans-serif; }
+.font-body { font-family: 'Roboto', sans-serif; }
 
 h1,
 h2,
@@ -33,7 +33,7 @@ label,
 .nav-tree li a,
 .wedding-head .first-name,
 .wedding-head .last-name,
-.font-primary { font-family: 'Raleway', sans-serif; }
+.font-primary { font-family: 'Roboto', sans-serif; }
 
 .entry-meta li,
 .entry-link span,
@@ -56,8 +56,17 @@ label,
 
 body { line-height: 1.5; }
 
-h1,
-h2,
+h1{
+
+}
+h2{
+    color: #444;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0 0 30px 0;
+    font-family: 'Roboto', sans-serif;
+
+}
 h3,
 h4,
 h5,
