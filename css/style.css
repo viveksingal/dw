@@ -162,8 +162,23 @@ iframe { border: none !important; }
 -----------------------------------------------------------------*/
 
 
-h1,
-h2,
+h1{
+
+	color: #444;
+	font-weight: 300;
+	line-height: 1.5;
+	margin: 0 0 30px 0;
+	font-family: 'Roboto', sans-serif;
+
+}
+h2,{
+	olor: #444;
+	font-weight: 300;
+	line-height: 1.5;
+	margin: 0 0 30px 0;
+	font-family: 'Roboto', sans-serif;
+
+}
 h3,
 h4,
 h5,
@@ -178,11 +193,11 @@ h6 {
 h5,
 h6 { margin-bottom: 20px; }
 
-h1 { font-size: 36px; }
+h1 { font-size: 20px; }
 
-h2 { font-size: 30px; }
+h2 { font-size: 25px; }
 
-h3 { font-size: 24px; }
+h3 { font-size: 16x; }
 
 h4 { font-size: 18px; }
 
@@ -4530,6 +4545,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay { display: no
 .masonry-thumbs img {
 	display: block;
 	height: auto !important;
+	
 }
 
 .masonry-thumbs img {
@@ -13012,3 +13028,28 @@ body:not(.no-transition) #wrapper,
 	padding:0!important
 }
 
+.help-you{
+	background-color: #EEEEEE;
+	padding-bottom: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 20px;
+    padding-left: 45px;
+    padding-right: 50px;
+}
+
+.icons-tool{
+	margin-top: 30px;
+	font-size: 22px;
+}
+
+.tools{
+	border-right: solid 1px;
+	color: #6C7A89;
+}
+
+
+
+.faq-content{
+	background-color: ;
+}
