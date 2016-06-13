@@ -13033,12 +13033,14 @@ body:not(.no-transition) #wrapper,
 	padding-bottom: 20px;
     margin-bottom: 15px;
     margin-top: 15px;
-    padding-top: 20px
+    padding-top: 20px;
+    padding-left: 45px;
+    padding-right: 50px;
 }
 
 .icons-tool{
 	margin-top: 30px;
-	border:;
+	font-size: 22px;
 }
 
 .tools{
