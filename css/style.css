@@ -11330,7 +11330,7 @@ button.toast-close-button {
 #toast-container > div {
 	margin: 0 0 6px;
 	padding: 15px;
-	width: 300px;
+	width: 500px;
 	border-radius: 3px;
 	background-position: 15px center;
 	background-repeat: no-repeat;
@@ -11367,7 +11367,7 @@ button.toast-close-button {
 
 .toast-error { background-color: #bd362f; }
 
-.toast-info { background-color: #2f96b4; }
+.toast-info { background-color: #F4721A; }
 
 .toast-warning { background-color: #f89406; }
 
