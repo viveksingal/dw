@@ -2986,7 +2986,7 @@ var SEMICOLON = SEMICOLON || {};
 				notifyCloseButton = notifyElement.attr('data-notify-close');
 
 			if( !notifyPosition ) { notifyPosition = 'toast-top-right'; } else { notifyPosition = 'toast-' + notifyElement.attr('data-notify-position'); }
-			if( !notifyMsg ) { notifyMsg = 'Please set a message!'; }
+			if( !notifyMsg ) { notifyMsg = 'Thank you for considering DWbyBanga we will in touch with you within the next 1-2 business days. We appreciate your business'; }
 			if( notifyCloseButton == 'true' ) { notifyCloseButton = true; } else { notifyCloseButton = false; }
 
 			toastr.options.positionClass = notifyPosition;
