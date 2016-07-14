@@ -5,7 +5,7 @@
 -----------------------------------------------------------------*/
 
 
-::selection { background: #1ABC9C; }
+::selection { background: #F4721A; }
 
 ::-moz-selection { background: #1ABC9C; }
 
@@ -145,7 +145,7 @@ input.switch-toggle-round:checked + label:before,
 .pagination > .active > a:hover,
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
-.pagination > .active > span:focus { background-color: #1ABC9C !important; }
+.pagination > .active > span:focus { background-color: #F4721A !important; }
 
 #primary-menu.style-4 > ul > li:hover > a,
 #primary-menu.style-4 > ul > li.current > a,
