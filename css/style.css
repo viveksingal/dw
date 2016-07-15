@@ -111,19 +111,19 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::selection {
-	background: #1ABC9C;
+	background: #F4721A;
 	color: #FFF;
 	text-shadow: none;
 }
 
 ::-moz-selection {
-	background: #1ABC9C; /* Firefox */
+	background: #F4721A; /* Firefox */
 	color: #FFF;
 	text-shadow: none;
 }
 
 ::-webkit-selection {
-	background: #1ABC9C; /* Safari */
+	background: #F4721A; /* Safari */
 	color: #FFF;
 	text-shadow: none;
 }
@@ -13028,18 +13028,18 @@ body:not(.no-transition) #wrapper,
 }
 
 .help-you{
-	background-color: #EEEEEE;
-	padding-bottom: 20px;
-    margin-bottom: 15px;
-    margin-top: 15px;
+	
+	/*padding-bottom: 20px;*/
+   /* margin-bottom: 15px;*/
+   /* margin-top: 15px;
     padding-top: 20px;
     padding-left: 45px;
-    padding-right: 50px;
+    padding-right: 50px*/;
 }
 
 .icons-tool{
 	margin-top: 30px;
-	font-size: 22px;
+	font-size: 19px;
 }
 
 .tools{
