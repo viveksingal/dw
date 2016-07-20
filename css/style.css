@@ -2919,6 +2919,11 @@ font-size: 50px;
 	#slider-arrow-left, #slider-arrow-right{
 		visibility: hidden;
 	}
+
+	#est{
+		padding-top: 20px;
+		text-align: center;
+	}
 }
 
 @media (min-width: 468px) and (max-width: 767px){
@@ -4575,7 +4580,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay { display: no
 
 .masonry-thumbs a,
 .masonry-thumbs img {
-	display: block;
+	display: inline-block;
 	height: auto !important;
 	
 }
