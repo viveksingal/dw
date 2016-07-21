@@ -2929,6 +2929,21 @@ font-size: 50px;
 		text-align: center;
 	}
 
+	#hq{
+		padding-left: 10px;
+		padding-right: 15px;
+	}
+
+	#op{
+		padding-left: 15px;
+			padding-right: 15px;
+	}
+
+	#number{
+		padding-left: 10px;
+			padding-right: 15px;
+	}
+
 }
 
 @media (min-width: 468px) and (max-width: 767px){
